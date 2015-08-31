@@ -1,2 +1,0 @@
-# TestRepository
-My first repository.
